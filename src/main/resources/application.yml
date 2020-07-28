@@ -1,0 +1,4 @@
+aws:
+    dynamo:
+        url: ''
+    region: ''
